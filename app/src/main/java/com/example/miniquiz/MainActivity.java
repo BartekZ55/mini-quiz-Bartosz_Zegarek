@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         lista.add(new Question("Stolica Rosji to", "Moskwa", "Petersburg", "Kazań", "Moskwa"));
         lista.add(new Question("Stolica Francji to:", "Nicea", "Paryż", "Strasburg", "Paryż"));
         lista.add(new Question("Stolica Portugali to:","Porto","Lizbona","Faro","Lizbona"));
+        lista.add(new Question("Stolica Austrii to:","Wiedeń","Graz","Linz","Wiedeń"));
     }
 
     void startQuiz() {
